@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-64QRJP4</Machine>
+    <WindowsUser>max</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>c4a3b17f-0039-493a-a7b5-a82222ffe041</PackageIdentityName>
+    <PackageIdentityPublisher>CN=max</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>02FA44CCED0B636CDB0E15D81AC3F6C90F32DF5E036587B634C3B62DBD421E00</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c4a3b17f-0039-493a-a7b5-a82222ffe041_1.0.2.0_x64__b10zz53wnpecr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c4a3b17f-0039-493a-a7b5-a82222ffe041_b10zz53wnpecr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c4a3b17f-0039-493a-a7b5-a82222ffe041</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=max</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.2.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-12-07T19:32:20.885</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+      <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
+      <Modified>2022-11-08T23:39:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\uap10.0\Microsoft.UI.Text.winmd">
+      <PackagePath>Microsoft.UI.Text.winmd</PackagePath>
+      <Modified>2022-11-08T23:39:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\uap10.0\Microsoft.Web.WebView2.Core.winmd">
+      <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
+      <Modified>2022-11-08T23:39:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2022-12-07T19:32:20.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2022-12-07T19:32:20.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x64\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2020-12-02T10:31:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-12-06T18:46:07.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2022-12-06T18:46:07.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-12-06T18:46:07.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-12-06T18:46:07.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-12-06T18:46:07.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-12-06T18:46:07.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-12-06T18:46:07.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-12-07T19:25:59.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
+      <Modified>2022-10-28T10:21:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.WinUI.dll</PackagePath>
+      <Modified>2022-11-08T23:39:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.AppNotifications.Builder.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.Security.AccessControl.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.System.Power.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.System.Projection.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Projection.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.Widgets.Projection.dll</PackagePath>
+      <Modified>2022-11-03T19:53:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>CsWinUiDesktopInstancing\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>CsWinUiDesktopInstancing\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2022-11-08T19:31:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>CsWinUiDesktopInstancing\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2022-11-08T19:31:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.27\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>CsWinUiDesktopInstancing\Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2022-08-17T03:26:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.27\lib\net6.0\WinRT.Runtime.dll">
+      <PackagePath>CsWinUiDesktopInstancing\WinRT.Runtime.dll</PackagePath>
+      <Modified>2022-08-17T03:26:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\CsWinUiDesktopInstancing.deps.json">
+      <PackagePath>CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.deps.json</PackagePath>
+      <Modified>2022-12-07T16:43:24.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\obj\x64\Debug\net6.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>CsWinUiDesktopInstancing\App.xbf</PackagePath>
+      <Modified>2022-12-07T19:32:20.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\obj\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>CsWinUiDesktopInstancing\MainWindow.xbf</PackagePath>
+      <Modified>2022-12-07T19:32:20.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\obj\x64\Debug\net6.0-windows10.0.19041.0\apphost.exe">
+      <PackagePath>CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.exe</PackagePath>
+      <Modified>2022-12-07T19:32:20.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\CsWinUiDesktopInstancing.runtimeconfig.json">
+      <PackagePath>CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.runtimeconfig.json</PackagePath>
+      <Modified>2022-12-07T16:43:24.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\CsWinUiDesktopInstancing.dll">
+      <PackagePath>CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.dll</PackagePath>
+      <Modified>2022-12-07T19:32:20.386</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.2.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.2</Name>
+      <Version>2000.677.1750.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.2, MinVersion = 2000.677.1750.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.2.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.2.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.2</Name>
+      <Version>2000.677.1750.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.2, MinVersion = 2000.677.1750.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.2.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.2.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.2</Name>
+      <Version>2000.677.1750.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.2, MinVersion = 2000.677.1750.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.2.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.2.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.2</Name>
+      <Version>2000.677.1750.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.2, MinVersion = 2000.677.1750.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.2.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

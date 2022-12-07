@@ -1,0 +1,40 @@
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\uap10.0\Microsoft.UI.Xaml.winmd
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\uap10.0\Microsoft.UI.Text.winmd
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\uap10.0\Microsoft.Web.WebView2.Core.winmd
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\App.xbf
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x64\ucrtbased.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\Images\SplashScreen.scale-200.png
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\Images\LockScreenLogo.scale-200.png
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\Images\Square150x150Logo.scale-200.png
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\Images\Square44x44Logo.scale-200.png
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\Images\StoreLogo.png
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\Images\Wide310x150Logo.scale-200.png
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\resources.pri
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\max\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.27\lib\net6.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\max\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.27\lib\net6.0\WinRT.Runtime.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\CsWinUiDesktopInstancing.deps.json
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\obj\x64\Debug\net6.0-windows10.0.19041.0\App.xbf
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\obj\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\obj\x64\Debug\net6.0-windows10.0.19041.0\apphost.exe
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\CsWinUiDesktopInstancing.runtimeconfig.json
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\CsWinUiDesktopInstancing.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\CsWinUiDesktopInstancing.pdb

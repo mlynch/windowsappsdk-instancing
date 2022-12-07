@@ -1,0 +1,57 @@
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\App.xbf
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\MainWindow.xbf
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.WinUI.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.System.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\Microsoft.Windows.SDK.NET.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\WinRT.Runtime.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.deps.json
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.exe
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.runtimeconfig.json
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.pdb
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\resources.pri
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\AppxManifest.xml
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing (Package).build.appxrecipe
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\Microsoft.UI.Xaml.winmd
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\Microsoft.UI.Text.winmd
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\Microsoft.Web.WebView2.Core.winmd
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\Microsoft.UI.Xaml.xml
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\Microsoft.UI.Text.xml
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\CsWinUiDesktopInstancing (Package).wapproj.AssemblyReference.cache
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\CsWinUiDesktopInstancing (Package).wapproj.CoreCompileInputs.cache
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\CsWinUiDesktopInstancing (Package).wapproj.CopyComplete
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\CsWinUiDesktopInstancing.pri.xml
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\priconfig.xml
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\resources.resfiles
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\pri.resfiles
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\qualifiers.txt
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\CsWinUiDesktopInstancing (Package).wapproj.LastBuild.txt
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\App.xbf
+C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing\MainWindow.xbf

@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="c4a3b17f-0039-493a-a7b5-a82222ffe041" Publisher="CN=max" Version="1.0.2.0" ProcessorArchitecture="x86" />
+  <Identity Name="c4a3b17f-0039-493a-a7b5-a82222ffe041" Publisher="CN=max" Version="1.0.3.0" ProcessorArchitecture="x86" />
   <Properties>
     <DisplayName>CsWinUiDesktopInstancing</DisplayName>
     <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>

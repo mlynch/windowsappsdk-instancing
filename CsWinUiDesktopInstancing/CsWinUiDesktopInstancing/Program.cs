@@ -151,7 +151,18 @@ namespace CsWinUiDesktopInstancing
             if (kind == ExtendedActivationKind.Launch)
             {
                 // This is a launch activation.
+                AppInstance keyInstance = AppInstance.FindOrRegisterForKey("main"); // file.Name);
                 ReportLaunchArgs("Main", args);
+                ReportInfo($"Registered key = {keyInstance.Key}");
+
+                // If we successfully registered the file name, we must be the
+                // only instance running that was activated for this file.
+                if (keyInstance.IsCurrent)
+                {
+                    // Hook up the Activated event, to allow for this instance of the app
+                    // getting reactivated as a result of multi-instance redirection.
+                    keyInstance.Activated += OnActivated;
+                }
             }
             else if (kind == ExtendedActivationKind.Protocol)
             {
@@ -164,7 +175,7 @@ namespace CsWinUiDesktopInstancing
                     if (args.Data is IProtocolActivatedEventArgs protoArgs)
                     {
                         var uri = protoArgs.Uri;
-                        AppInstance keyInstance = AppInstance.FindOrRegisterForKey("random"); // file.Name);
+                        AppInstance keyInstance = AppInstance.FindOrRegisterForKey("main"); // file.Name);
                         ReportInfo($"Registered key = {keyInstance.Key}");
 
                         // If we successfully registered the file name, we must be the

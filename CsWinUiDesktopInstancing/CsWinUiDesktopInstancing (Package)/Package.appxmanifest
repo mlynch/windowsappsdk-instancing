@@ -9,7 +9,7 @@
   <Identity
     Name="c4a3b17f-0039-493a-a7b5-a82222ffe041"
     Publisher="CN=max"
-    Version="1.0.2.0" />
+    Version="1.0.3.0" />
 
   <Properties>
     <DisplayName>CsWinUiDesktopInstancing</DisplayName>

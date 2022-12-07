@@ -1,2 +1,2 @@
-MainPackage=C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing (Package)_1.0.2.0_x64_Debug.msix
-SymbolPackage=C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\Symbols\CsWinUiDesktopInstancing (Package)_1.0.2.0_x64_Debug.appxsym
+MainPackage=C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\bin\x64\Debug\CsWinUiDesktopInstancing (Package)_1.0.3.0_x64_Debug.msix
+SymbolPackage=C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing (Package)\obj\x64\Debug\Symbols\CsWinUiDesktopInstancing (Package)_1.0.3.0_x64_Debug.appxsym

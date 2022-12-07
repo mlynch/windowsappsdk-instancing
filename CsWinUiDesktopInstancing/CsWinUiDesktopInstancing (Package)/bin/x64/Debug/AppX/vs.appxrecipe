@@ -19,18 +19,18 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>02FA44CCED0B636CDB0E15D81AC3F6C90F32DF5E036587B634C3B62DBD421E00</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>c4a3b17f-0039-493a-a7b5-a82222ffe041_1.0.2.0_x64__b10zz53wnpecr</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>B61E1CD24D14CC22915FFE8883090DFC6E3B62BAAFB77E6BA54042E3E297321C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c4a3b17f-0039-493a-a7b5-a82222ffe041_1.0.3.0_x64__b10zz53wnpecr</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>c4a3b17f-0039-493a-a7b5-a82222ffe041_b10zz53wnpecr!App</RegisteredUserModeAppID>
     <RegisteredPackageID>c4a3b17f-0039-493a-a7b5-a82222ffe041</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=max</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.2.0</RegisteredVersion>
+    <RegisteredVersion>1.0.3.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\bin\x64\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-07T19:32:20.885</Modified>
+      <Modified>2022-12-07T21:13:56.407</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -94,7 +94,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing %28Package%29\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-12-07T19:25:59.779</Modified>
+      <Modified>2022-12-07T21:00:03.840</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>CsWinUiDesktopInstancing\Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
@@ -186,7 +186,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\obj\x64\Debug\net6.0-windows10.0.19041.0\apphost.exe">
       <PackagePath>CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.exe</PackagePath>
-      <Modified>2022-12-07T19:32:20.393</Modified>
+      <Modified>2022-12-07T21:13:55.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\CsWinUiDesktopInstancing.runtimeconfig.json">
       <PackagePath>CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.runtimeconfig.json</PackagePath>
@@ -194,7 +194,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\max\Desktop\cs-winui-packaged\CsWinUiDesktopInstancing\CsWinUiDesktopInstancing\bin\x64\Debug\net6.0-windows10.0.19041.0\CsWinUiDesktopInstancing.dll">
       <PackagePath>CsWinUiDesktopInstancing\CsWinUiDesktopInstancing.dll</PackagePath>
-      <Modified>2022-12-07T19:32:20.386</Modified>
+      <Modified>2022-12-07T21:13:55.789</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

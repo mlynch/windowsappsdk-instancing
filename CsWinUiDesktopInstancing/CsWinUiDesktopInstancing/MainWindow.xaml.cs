@@ -2,6 +2,7 @@
 // Licensed under the MIT license.
 
 using Microsoft.UI.Xaml;
+using System.Diagnostics;
 
 namespace CsWinUiDesktopInstancing
 {
@@ -27,6 +28,7 @@ namespace CsWinUiDesktopInstancing
             DispatcherQueue.TryEnqueue(() =>
             {
                 StatusListView.Items.Add(message);
+                Debug.WriteLine($"\n\nMESSAGE: {message}");
             });
         }
 
